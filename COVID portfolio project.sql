@@ -1,3 +1,4 @@
+-- This file was created by Oluwaferanmi Alalade on the 28th of October, 2022
 -- The data
 SELECT *
 FROM portfolioproject..coviddeaths
